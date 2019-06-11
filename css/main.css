@@ -111,10 +111,10 @@ a:hover, a:active {
  * ------------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: "Raleway Black", sans-serif;
+    font-family: "Raleway", sans-serif;
     color: #000000;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 900;
     text-rendering: optimizeLegibility;
 }
 
@@ -213,7 +213,8 @@ em, i {
 }
 
 strong, b {
-    font-family: "Raleway Black", serif;
+    font-family: "Raleway", serif;
+    font-weight: 900;
 }
 
 small {
@@ -1214,7 +1215,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ## display headings
  * ------------------------------------------------------------------- */
 .display-1 {
-    font-family: "Raleway ExtraLight", sans-serif;
+    font-family: "Raleway", sans-serif;
     text-transform: uppercase;
     font-weight: 200;
     font-size: 7.8rem;
@@ -1228,7 +1229,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .display-2 {
-    font-family: "Raleway Black", sans-serif;
+    font-family: "Raleway", sans-serif;
+    font-weight: 900;
     font-size: 5.2rem;
     line-height: 1.255;
     color: #000000;
@@ -1244,7 +1246,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .subhead {
-    font-family: "Raleway Black", sans-serif;
+    font-family: "Raleway", sans-serif;
+    font-weight: 900;
     font-size: 1.7rem;
     line-height: 1.333;
     text-transform: uppercase;
@@ -1819,7 +1822,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     position: relative;
 }
 .home-content__main p {
-    font-family: "Raleway ExtraLight", sans-serif;
+    font-family: "Raleway", sans-serif;
+    font-weight: 200;
     color:#fff;
 }
 
