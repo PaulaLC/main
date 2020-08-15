@@ -52,7 +52,7 @@
 
     $(function() {
       typed.typed({
-        strings: ["PAULA LC.", "Data Scientist.", "AI Designer.", "Statistician.", "Musician."],
+        strings: ["Paula LC.", "Data Scientist.", "AI Designer.", "Statistician."],
         typeSpeed: 100,
         loop: true,
       });
