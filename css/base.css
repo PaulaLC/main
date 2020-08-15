@@ -42,9 +42,7 @@
  * github.com/necolas/normalize.css
  *
  * ------------------------------------------------------------------- */
-img.parallax-slider {
-    width: auto !important;
-} 
+
 html {
     font-family: sans-serif;
     line-height: 1.15;
@@ -929,3 +927,6 @@ textarea {
 
 
 /*# sourceMappingURL=base.css.map */
+img.parallax-slider {
+    width: auto !important;
+} 
