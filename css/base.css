@@ -928,5 +928,6 @@ textarea {
 
 /*# sourceMappingURL=base.css.map */
 img.parallax-slider {
-    width: auto !important;
-} 
+    width: 100% !important;
+    height: auto!important;
+}
